@@ -1,3 +1,5 @@
+# Text Editor
+## Overview
 This console-based C++ application simulates the core editing functionalities used in a press agency. 
 It allows inserting and deleting text and supports undo and redo operations using a custom stack data structure.
 
